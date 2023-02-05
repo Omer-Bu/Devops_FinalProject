@@ -11,7 +11,7 @@
 				HIT - DevOps Final Project
 			</h1>
 			<h2 style="font-size: 25px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				Students: Omer Boucris | XXXXXXXXX | Bar Bikovsky
+				Students: Omer Boucris | Bar Bikovsky
             </h2>
             <div>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" style="height: 100px; margin-right: 70px;" />
